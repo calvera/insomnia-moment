@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-moment",
+  "version": "0.0.1",
+  "description": "Insomnia Moment.js plugin",
+  "main": "moment.js",
+  "keywords": [
+    "insomnia",
+    "moment"
+  ],
+  "insomnia": {
+    "name": "moment",
+    "description": "moment.js function"
+  },
+  "dependencies": 
+   {
+    "moment": "latest"
+  },
+  "devDependencies": [],
+  "author": "Karel Sommer <karel.sommer@gmail.com>",
+  "license": "ISC"
+}
