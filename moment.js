@@ -1,7 +1,5 @@
-/**
- * Example template tag that generates a random number 
- * between a user-provided MIN and MAX
- */
+const moment = require('moment');
+
 module.exports.templateTags = [{
     name: 'future',
     displayName: 'Future Timestamp',
